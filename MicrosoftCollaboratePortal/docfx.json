@@ -1,0 +1,51 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**", 
+          "**/_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/collaborate/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "searchScope": ["Collaborate"],
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/MicrosoftCollaboratePortal",
+      "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
+      "titleSuffix": "Collaborate",
+      "ms.topic": "article",
+      "ms.prod": "Windows",
+      "ms.technology": "mscollaborate"
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "MicrosoftCollaboratePortal"
+  }
+}
