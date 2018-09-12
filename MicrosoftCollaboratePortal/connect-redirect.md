@@ -6,12 +6,12 @@ ms.author: mimcco
 ms.date: 01/03/2018
 keywords: Microsoft Connect, registro
 hide_comments: true
-ms.openlocfilehash: 610e69f7ef449d92925d931740ba5c42c5e5107d
-ms.sourcegitcommit: 8ae2ead732e03d8a9865797bb9f40818780036e9
+ms.openlocfilehash: 39a3557638f9b3eb6bf240cb8d3e6e2508c1c12c
+ms.sourcegitcommit: e9959c14281c830d30c46a921c44f745a3042af2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2018
-ms.locfileid: "43054864"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "44385289"
 ---
 # <a name="microsoft-connect-has-been-retired"></a>Microsoft Connect foi desativado
 Você chegou nesta página porque você tentou acessar o portal do Microsoft Connect. Depois de quase 10 anos, Microsoft Connect foi descontinuado em favor de novas ferramentas e serviços que continuarão a permitir que você entre em contato com a Microsoft. Se você for um membro de um programa do Active Directory Connect, seu programa foi fechado ou movida para uma destas ferramentas ou serviços. Identifica seu programa abaixo para obter o status e as próximas etapas.
@@ -60,12 +60,6 @@ O programa do Office PIPC agora está hospedado no [Collaborate Microsoft](https
 
 ### <a name="fast-connect-site-id-898"></a>Fast (conectar-se a ID do Site 898)
 O programa rápido agora está hospedado no [Collaborate Microsoft](https://aka.ms/collaborate). Se você tiver alguma dúvida sobre sua associação no programa ou o acesso para colaborar, entre em contato com fastcsrv@microsoft.com.
-
-### <a name="warp-connect-site-id-1388"></a>WARP (conectar-se a ID do Site 1388)
-O programa WARP agora está hospedado no [Collaborate Microsoft](https://aka.ms/collaborate). Se você tiver alguma dúvida sobre sua associação no programa ou o acesso para colaborar, entre em contato com warphelp@microsoft.com.
-
-### <a name="ewarp-connect-site-id-1398"></a>eWARP (conectar-se o Site ID 1398)
-O programa eWARP agora está hospedado no [Collaborate Microsoft](https://aka.ms/collaborate). Se você tiver alguma dúvida sobre sua associação no programa ou o acesso para colaborar, entre em contato com msews@microsoft.com.
 
 ### <a name="microsoft-office-connect-site-id-160"></a>Microsoft Office (conectar-se a ID do Site 160)
 O programa do Microsoft Office agora está hospedado no [Collaborate Microsoft](https://aka.ms/collaborate). Se você tiver alguma dúvida sobre sua associação no programa ou o acesso para colaborar, entre em contato com officeconnectteam@microsoft.com.
