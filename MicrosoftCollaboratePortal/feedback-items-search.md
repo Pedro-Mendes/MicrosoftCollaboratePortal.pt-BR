@@ -27,7 +27,7 @@ No [página de todos os comentários](//developer.microsoft.com/dashboard/collab
 
 ## <a name="types-of-queries"></a>Tipos de consultas
 
-O sistema de comentários no MS Collaborate tem tipos diferentes de consultas salvas.  Consultas de comentários são uma maneira fácil de localizar itens de trabalho que atendem aos critérios que você definir.  Você simplesmente clicar no link de consulta e a lista de resultados será exibida.  Você também pode salvar as edições a uma consulta existente ou use Salvar como para criar uma nova consulta com um novo nome.
+O sistema de comentários no MS Collaborate tem tipos diferentes de consultas salvas.  Consultas de comentários são uma maneira fácil de localizar itens de trabalho que atendem aos critérios que você definir.  Você simplesmente clica no link de consulta e a lista de resultados será exibida.  Você também pode salvar as edições a uma consulta existente ou use Salvar como para criar uma nova consulta com um novo nome.
 
 Você pode usar usam os seguintes tipos de consultas para um programa ou do engagement:
 - **Minhas consultas** são criadas por você e são visíveis apenas para você. Esta é uma consulta privada.
