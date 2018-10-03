@@ -5,12 +5,12 @@ author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
 keywords: acesso de parceiros, permissões, registrar, registro, integração, comentários de parceiros, downloads de compilação, especificações do download, bugs, Microsoft Connect, SysDev bugs, bugs de centro de desenvolvimento
-ms.openlocfilehash: b58468950a70c17ebb3959d4b3bbd30b4cf862a0
-ms.sourcegitcommit: 8ae2ead732e03d8a9865797bb9f40818780036e9
+ms.openlocfilehash: 49bfb7ffd58719a61146b6c67f333481e55df44d
+ms.sourcegitcommit: 7fd7eb31172da66cd9c7588fe0ee0d5c2068f02b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2018
-ms.locfileid: "43055326"
+ms.lasthandoff: 09/29/2018
+ms.locfileid: "47454176"
 ---
 # <a name="register-with-microsoft-collaborate"></a>Registre-se com a Microsoft colaboram
 
@@ -44,7 +44,7 @@ O programa Microsoft Collaborate exige registro. Se você tiver uma conta no Cen
 Ao criar uma conta da empresa, sugerimos que você siga essas diretrizes, especialmente se mais de uma pessoa precisar acessar a conta.
 
 > [!IMPORTANT]
-> Para permitir que vários usuários acessem sua conta do Centro de desenvolvimento, é recomendável usar o Azure Active Directory para atribuir funções a usuários individuais. Cada usuário pode acessar a conta do Centro de desenvolvimento ao entrar com sua pessoa credenciais do Azure AD. Para obter mais informações, consulte [gerenciar usuários de conta](/windows/uwp/publish/manage-account-users.md).
+> Para permitir que vários usuários acessem sua conta do Centro de desenvolvimento, é recomendável usar o Azure Active Directory para atribuir funções a usuários individuais. Cada usuário pode acessar a conta do Centro de desenvolvimento ao entrar com sua pessoa credenciais do Azure AD. Para obter mais informações, consulte [gerenciar usuários de conta](/windows/uwp/publish/manage-account-users).
 
 -   Criar sua conta da Microsoft usando um endereço de email que já não pertence a você ou outra pessoa, como MyCompany_DevCenter@outlook.com. Você pode não ser capaz de usar um endereço de email no domínio da sua empresa, especialmente se sua empresa já usa o Azure AD.
 -   Se você planeja participe do programa do Windows para desenvolvimento de aplicativos no futuro e quiser reutilizar sua conta do Centro de desenvolvimento, em seguida, é recomendável que você deseja registrar no programa Windows primeiro e, em seguida, ingressar Collaborate Microsoft. Caso contrário, você terá que criar contas separadas para esses programas.
