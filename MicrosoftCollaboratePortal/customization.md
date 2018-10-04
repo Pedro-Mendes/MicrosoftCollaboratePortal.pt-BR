@@ -18,14 +18,14 @@ Você pode personalizar o Microsoft Collaborate atender melhor às que você pre
 
 ## <a name="saved-feedback-queries"></a>Consultas salvas de comentários
 
-O sistema de comentários no MS Collaborate tem tipos diferentes de consultas salvas.  Consultas de comentários são uma maneira fácil de localizar itens de trabalho que atendem aos critérios que você definir.  Você simplesmente clica no link de consulta e a lista de resultados será exibida.  Você também pode salvar as edições a uma consulta existente ou use Salvar como para criar uma nova consulta com um novo nome.
+O sistema de comentários no MS Collaborate tem tipos diferentes de consultas salvas.  Consultas de comentários são uma maneira fácil de localizar itens de trabalho que atendem aos critérios que você definir.  Você simplesmente clica no link de consulta e a lista de resultados será exibida.  Você também pode salvar as edições a uma consulta existente ou use **Salvar como** para criar uma nova consulta com um novo nome.
 
 Você pode usar usam os seguintes tipos de consultas para um programa ou do engagement:
 - **Minhas consultas** só estão disponíveis para você.  
 - **Consultas compartilhadas** estão disponíveis para todos os usuários em um contrato ou de um programa, tornando mais fácil para que os usuários tenham os mesmos resultados de consulta
 - **Predefinidas em consultas** são fornecidos pelo sistema Collaborate MS e são consultas comuns para todos os. 
 
-Você pode abrir qualquer consulta existente e usar a opção Salvar como para salvá-lo em seu **minhas consultas** lista ou crie uma nova consulta do existente.
+Você pode abrir qualquer consulta existente e usar a opção **Salvar como** para salvá-lo em seu **minhas consultas** lista ou crie uma nova consulta do existente.
 
 Programa e os proprietários do Engagement podem criar e modificar as **consultas compartilhadas**.  O **Pre-Defined consultas** são gerenciados pela equipe de Collaborate MS.  Entre em contato com seu compromisso com os proprietários recomendar alterações.  
 
